@@ -1,0 +1,147 @@
+*{
+   
+    background-color: #ECDAC2;
+   margin: 0;
+}
+.navbar{
+    background-color: #ECDAC2;
+    height: 50px;
+   
+    
+}
+.logo{
+    background-image: url("spotify-logo-png-7069\ 1.png");
+    background-size: cover;
+    height:60px;
+    width: 60px;
+
+}
+.icon{
+   
+    display: flex;
+   margin-left: 1000px;
+   padding: 10px;
+   font-size: large;
+}
+.a1{
+    margin: 10px;
+    font: Bitter;
+}
+.a2{
+    margin: 10px;
+    font: Bitter;
+}
+
+.a3{
+    margin: 10px;
+    font: Bitter;
+}
+    
+    .a4{
+        margin: 10px;
+        font: Bitter;
+    }
+        
+    .a5{
+        margin: 10px;
+         font: Bitter;
+    }
+    .bo{
+        background-color: gray;
+        height: 2px;}
+  .h{
+    font-size: 70px;
+    font-style: italic;
+    margin-top: 30px;
+    margin-left: 20px;
+   
+    
+  }
+  .s{
+    margin-left: 20px;
+    font-size: 25px;
+    display: flex;
+    width: 1400px;
+    margin-top: 30px;
+
+   
+   
+  }
+  .p{
+    background-image: url("TL.png");
+    background-size: cover;
+   width: 400px;
+   height: 600px;
+   margin-left: 500px;
+  
+    
+
+  }
+  .b{
+    margin-left: 300px;
+    border-radius:500px;
+  }
+  .newl{
+    background-color: black;
+    height: 100px;
+    width: 800px;
+    
+    margin-left: 300px;
+  }
+  .p1{
+    background-image: url("B1.png");
+    background-size: cover;
+   width: 350px;
+   height: 350px;
+   
+
+  }
+  .p2{
+    background-image: url("B3T.png");
+    background-size: cover;
+   width: 350px;
+   height: 200px;
+
+  }
+  .p3{
+    background-image: url("B3.png");
+    background-size: cover;
+   width: 350px;
+   height: 350px;
+   margin-top: 200px;
+   
+
+
+  }
+  .pn1{
+    background-image: url("B2.png");
+    background-size: cover;
+   width: 350px;
+   height: 350px;
+  margin-left: 350px;
+  }
+  .x{
+    display: flex;
+
+  }
+  .pn2{
+    background-image: url("B4.png");
+    background-size: cover;
+   width: 350px;
+   height: 550px;
+  margin-left: 0px;
+  }
+  .y{
+    display: flex;
+  }
+ 
+  .u{
+    background-image: url("WAVE.png");
+    background-size: cover;
+   height: 100px;
+   width: 200px;
+   margin-top: 850px;
+   margin-left: 550px;
+  }
+  
+  
